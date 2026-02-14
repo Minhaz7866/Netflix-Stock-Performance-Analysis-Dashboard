@@ -35,8 +35,8 @@ Short & crisp version (if needed):
                                   Trend and volatility analysis
 
 Screenshorts
-Dashboard look like :-
-Example :-
+              Dashboard look like :- [alt test](https://github.com/Minhaz7866/Netflix-Stock-Performance-Analysis-Dashboard/blob/main/netflix-dashboard.png.png)
+              Example :- https://github.com/Minhaz7866/Netflix-Stock-Performance-Analysis-Dashboard/blob/main/netflix-dashboard.png.png
                                   
    
                                            
